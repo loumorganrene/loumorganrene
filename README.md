@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://dam.malt.com/6f667ce9-7d08-4f64-baa3-bc36580120fa?gravity=face&func=face&face_margin=70&w=440&h=440&force_format=webp"  />
 
 ###
 
@@ -33,9 +33,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&link=https://www.linkedin.com/in/lou-pierre/" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge&link=https://www.twitch.tv/bleulou" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Protonmail&logo=Protonmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge&link=mailto:loumorgan@murena.io" height="35" alt="protonmail logo"  />
+  <a href="https://www.linkedin.com/in/lou-pierre/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" height="35">
+  </a>
+  <a href="https://www.twitch.tv/bleulou">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" height="35">
+  </a>
+  <a href="mailto:loumorgan@protonmail.com">
+    <img src="https://img.shields.io/static/v1?message=Protonmail&logo=Protonmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" alt="protonmail logo" height="35">
+  </a>
+
 </div>
 
 ###
