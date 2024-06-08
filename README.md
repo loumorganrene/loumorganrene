@@ -39,7 +39,7 @@
   <a href="https://www.twitch.tv/bleulou">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" height="35">
   </a>
-  <a href="mailto:loumorgan@protonmail.com">
+  <a href="mailto:lmpierre.pro@protonmail.com">
     <img src="https://img.shields.io/static/v1?message=Protonmail&logo=Protonmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" alt="protonmail logo" height="35">
   </a>
 
