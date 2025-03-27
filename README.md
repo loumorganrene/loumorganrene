@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://dam.malt.com/6f667ce9-7d08-4f64-baa3-bc36580120fa?gravity=face&func=face&face_margin=70&w=440&h=440&force_format=webp"  />
+<img align="right" height="150" src="https://ibb.co/pj4L76BJ"  />
 
 ###
 
